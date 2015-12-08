@@ -1,7 +1,5 @@
 # Circular Snake
 
-Classic snake game, but circular. Build with JS.
+Classic snake game, but circular. Built using HTML5 Canvas.
 
-Play it at http://ed-bit.github.io/
-
-
+Play it at http://ed-bit.github.io/Circular-Snake/
